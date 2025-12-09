@@ -1,4 +1,4 @@
 Testing the Git commands
 Checking
 
-I am changing this and I want to merge it
+I am changing this and I want to merge itDSdsd
